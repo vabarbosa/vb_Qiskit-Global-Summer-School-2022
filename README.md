@@ -2,11 +2,8 @@
 ___
 # Qiskit Global Summer School 2022: Quantum Simulations
 
-<!-- Official Logo of Summer School -->
-
 <p align="center">
 </p>
-<h1 align="center">Qiskit Global Summer School: Quantum Simulations</h1>
 <p align="center">
   <img src="https://qiskit.org/images/events/summer-school/summer-school-logo.png" height="352" width="470" />
 </p>
