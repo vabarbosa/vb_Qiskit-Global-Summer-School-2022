@@ -14,6 +14,10 @@ The annual Qiskit Global Summer School 2022 was an IBM-hosted, two-week-long pro
 The summer school provided lectures from famous researchers at IBM, including Dr. Olivia Lanes, Maria Violaris and Dr. Zlatko Minev. It was thrilling to learn directly from individuals whose online content I watched extensively prior to the program. In addition, students got to put their learning to the test by means of the four lab assignments, which illustrated the usage of Qiskit in performing Quantum Simulations.
 
 This repository contains the four lab assignments and my solutions to them. I hope you are able to learn from these notebooks as I have.
+
+[Here](
+https://www.linkedin.com/posts/abhaywagarwal_qiskit-global-summer-school-2022-quantum-activity-6987570809267519488-bbeM?utm_source=share&utm_medium=member_desktop) is the link to my LinkedIn post regarding the summer school, and here is the post illlustraing the [badge](https://www.linkedin.com/posts/abhaywagarwal_qiskit-global-summer-school-2022-quantum-activity-6987570809267519488-bbeM?utm_source=share&utm_medium=member_desktop) awarded to those who successfully completed the summer school
+
 ___
 
 ## Labs
