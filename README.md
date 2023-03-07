@@ -20,9 +20,8 @@ This repository contains the four lab assignments and my solutions to them. I ho
 ___
 
 ## Labs
-<!-- Labs -->
 Lab 1: Intro to circuit composition and cost
-<!-- Description of Lab 1 -->
+This notebook depicts the basics: implementing single and multi-qubit gates. It then applies complexity theory to quantum circuits and ends with an exhibition on the Quantum Fourier Transform, which students then implement themselves
 
 Lab 2: Advanced circuits
 <!-- Description of Lab 2 -->
