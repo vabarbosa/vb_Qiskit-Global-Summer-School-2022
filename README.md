@@ -21,7 +21,9 @@ ___
 
 ## Labs
 Lab 1: Intro to circuit composition and cost
-This notebook depicts the basics: implementing single and multi-qubit gates. It then applies complexity theory to quantum circuits and ends with an exhibition on the Quantum Fourier Transform, which students then implement themselves
+<br>
+<br>
+This notebook depicts the basics - implementing single and multi-qubit gates. It then applies complexity theory to quantum circuits and ends with an exhibition on the Quantum Fourier Transform, which students then implement themselves
 
 Lab 2: Advanced circuits
 <!-- Description of Lab 2 -->
