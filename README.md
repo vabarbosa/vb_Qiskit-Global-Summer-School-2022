@@ -23,14 +23,20 @@ ___
 Lab 1: Intro to circuit composition and cost
 <br>
 <br>
-This notebook depicts the basics - implementing single and multi-qubit gates. It then applies complexity theory to quantum circuits and ends with an exhibition on the Quantum Fourier Transform, which students then implement themselves
+This notebook depicts the basics - implementing single and multi-qubit gates. It then applies complexity theory to quantum circuits and ends with a lesson on the Quantum Fourier Transform, which students then implement themselves
 
 Lab 2: Advanced circuits
-<!-- Description of Lab 2 -->
+<br>
+<br>
+This notebook provides students with a crash course on the Qiskit Opflow module. The notebook illustrates the use of the module in simulating the dynamics of a system governed by a certain Hamiltonian
 
 Lab 3: Quantum Noise
-<!-- Description of Lab 3 -->
+<br>
+<br>
+An exhibition on noise in the quantum world! Student will encounter projection noise, measurement noise, coherent noise and incoherent noise
 
 Lab 4: Simulate a Quantum Spin-1/2 Model
-<!-- Description of Lab 4 -->
+<br>
+<br>
+Finally, the students will simulate a quantum system, and aim to achieve a final quantum state closest to the expected final state!
 
