@@ -15,8 +15,7 @@ The summer school provided lectures from famous researchers at IBM, including Dr
 
 This repository contains the four lab assignments and my solutions to them. I hope you are able to learn from these notebooks as I have.
 
-[Here](
-https://www.linkedin.com/posts/abhaywagarwal_qiskit-global-summer-school-2022-quantum-activity-6987570809267519488-bbeM?utm_source=share&utm_medium=member_desktop) is the link to my LinkedIn post regarding the summer school, and here is the post illlustraing the [badge](https://www.linkedin.com/posts/abhaywagarwal_qiskit-global-summer-school-2022-quantum-activity-6987570809267519488-bbeM?utm_source=share&utm_medium=member_desktop) awarded to those who successfully completed the summer school
+[Here](https://www.linkedin.com/posts/abhaywagarwal_hi-everyone-i-just-wanted-to-share-that-activity-6959936636780519424-oAwn?utm_source=share&utm_medium=member_desktop) is the link to my LinkedIn post regarding the summer school, and here is the post illlustraing the [badge](https://www.linkedin.com/posts/abhaywagarwal_qiskit-global-summer-school-2022-quantum-activity-6987570809267519488-bbeM?utm_source=share&utm_medium=member_desktop) awarded to those who successfully completed the summer school
 
 ___
 
